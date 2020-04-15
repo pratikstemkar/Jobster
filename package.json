@@ -19,6 +19,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "express": "^4.17.1",
+    "express-ip": "^1.0.4",
     "express3-handlebars": "^0.5.2",
     "handlebars": "^4.7.6"
   },
