@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/pratikstemkar/Jobster#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "express-ip": "^1.0.4",
     "express3-handlebars": "^0.5.2",
